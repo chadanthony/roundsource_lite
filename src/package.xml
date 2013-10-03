@@ -8,6 +8,8 @@
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
+        <members>Case.PotentialLiability__c</members>
+        <members>Case.Product__c</members>
         <name>CustomField</name>
     </types>
     <version>27.0</version>
